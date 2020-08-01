@@ -1,0 +1,15 @@
+{
+  "name": "shopping-discount-calculator",
+  "version": "1.0.0",
+  "description": "This program is made to calculate shopping discount based on customer type",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Prakash Dayaramani",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.0"
+  }
+}

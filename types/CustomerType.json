@@ -1,0 +1,41 @@
+{
+    "REGULAR": [
+        {
+            "startAmount": 0,
+            "endAmount": 5000,
+            "discountPercentage": 0
+        },
+        {
+            "startAmount": 5000,
+            "endAmount": 10000,
+            "discountPercentage": 10
+        },
+        {
+            "startAmount": 10000,
+            "endAmount": 99999999999999999999,
+            "discountPercentage": 20
+        }
+    ],
+    "PREMIUM": [
+        {
+            "startAmount": 0,
+            "endAmount": 4000,
+            "discountPercentage": 10
+        },
+        {
+            "startAmount": 4000,
+            "endAmount": 8000,
+            "discountPercentage": 15
+        },
+        {
+            "startAmount": 8000,
+            "endAmount": 12000,
+            "discountPercentage": 20
+        },
+        {
+            "startAmount": 12000,
+            "endAmount": 99999999999999999999,
+            "discountPercentage": 30
+        }
+    ]
+}
