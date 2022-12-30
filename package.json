@@ -10,6 +10,6 @@
   "author": "Prakash Dayaramani",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^8.1.0"
+    "mocha": "^8.4.0"
   }
 }
